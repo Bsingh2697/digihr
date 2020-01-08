@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/digihr/static/css/main.426de25f.chunk.css",
+    "main.js": "/digihr/static/js/main.a3d13bda.chunk.js",
+    "main.js.map": "/digihr/static/js/main.a3d13bda.chunk.js.map",
+    "runtime-main.js": "/digihr/static/js/runtime-main.468e1cef.js",
+    "runtime-main.js.map": "/digihr/static/js/runtime-main.468e1cef.js.map",
+    "static/css/2.e22ab21b.chunk.css": "/digihr/static/css/2.e22ab21b.chunk.css",
+    "static/js/2.a2e5ea72.chunk.js": "/digihr/static/js/2.a2e5ea72.chunk.js",
+    "static/js/2.a2e5ea72.chunk.js.map": "/digihr/static/js/2.a2e5ea72.chunk.js.map",
+    "index.html": "/digihr/index.html",
+    "precache-manifest.75f0d9d870a10e373007f25a1d70c076.js": "/digihr/precache-manifest.75f0d9d870a10e373007f25a1d70c076.js",
+    "service-worker.js": "/digihr/service-worker.js",
+    "static/css/2.e22ab21b.chunk.css.map": "/digihr/static/css/2.e22ab21b.chunk.css.map",
+    "static/css/main.426de25f.chunk.css.map": "/digihr/static/css/main.426de25f.chunk.css.map",
+    "static/js/2.a2e5ea72.chunk.js.LICENSE": "/digihr/static/js/2.a2e5ea72.chunk.js.LICENSE",
+    "static/media/mdb.css": "/digihr/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/ff.png": "/digihr/static/media/ff.96ac6de6.png",
+    "static/media/img1.png": "/digihr/static/media/img1.09b4b802.png",
+    "static/media/img2.png": "/digihr/static/media/img2.5724d824.png",
+    "static/media/img3.png": "/digihr/static/media/img3.dd15df6c.png",
+    "static/media/innohr.png": "/digihr/static/media/innohr.d3e3e8dc.png",
+    "static/media/log.jpg": "/digihr/static/media/log.17736fa9.jpg",
+    "static/media/logo.png": "/digihr/static/media/logo.b1d1e0f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468e1cef.js",
+    "static/css/2.e22ab21b.chunk.css",
+    "static/js/2.a2e5ea72.chunk.js",
+    "static/css/main.426de25f.chunk.css",
+    "static/js/main.a3d13bda.chunk.js"
+  ]
+}
