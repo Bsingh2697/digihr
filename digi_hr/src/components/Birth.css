@@ -1,0 +1,23 @@
+.birth{
+    width: 20vw;
+    height: 7vw;
+    font-weight: bold
+ 
+}
+.loader9{
+    z-index: 999999999999999;
+    background-color: white;
+    position: absolute;
+    margin-left: 0;
+    margin-top: -2vw;
+    width: 17vw;
+}
+.landing-main-div{ 
+    z-index: 99999;
+    background-color:#fff;
+    text-align: center
+  }
+  .nav9{
+      z-index: 99999;
+  }
+  

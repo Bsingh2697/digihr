@@ -1,0 +1,38 @@
+.tablediv8 { 
+	width: 900px; 
+	border-collapse: collapse; 
+    margin:90px auto;
+    margin-top: 50px
+    }
+.theaddiv8{
+    font-weight:bold;
+    font-size:8px;
+    text-align: left;
+    background: #B7E9F7 ;
+    color:#ffffff;
+}
+.thdiv8 { 
+	background: #ffffff; 
+	color: #B7E9F7; 
+    font-weight: 400; 
+    font-size:13px;
+    padding: 6px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+    }
+    
+.bold8{
+    font-weight: 800; 
+    font-size: 16px;
+    padding:15px;
+    text-align:left;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.trdiv8 { border: 1px solid #ccc; }
+.buttbutt{
+    text-align: center
+   
+   
+}
+ 

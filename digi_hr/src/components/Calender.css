@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+/* style={{ width: 300, border: '1px solid #d9d9d9', borderRadius: 4 ,marginLeft:800 ,mar}} */
+
+/* .div{
+    max-width: 100vw;
+    min-width: 20vw;
+    border: '1px solid #d9d9d9';
+    border-radius: 4px;
+    margin-left: 800px;
+    margin-top: -270px;
+    margin-right: 0vw;
+
+} */
+/* .honey{
+    width:500px;
+    height:80vw;
+    margin-left: 90vw;
+    style={{ width: 300, border: '1px solid #d9d9d9', borderRadius: 4 ,marginLeft:600 }}
+    style={{ width: 330 ,marginLeft:'50vw' }}
+} */
+.kela{
+    width:280px;
+    border: '1px solid #d9d9d9';
+    border-radius:4;
+    height: 10vw;
+    margin-top: -2vw;
+    font-family: "Fredoka One";
+    
+}
+.johora{
+    width: 24vw;
+    margin-left: 31vw;
+    margin-top: -19vw;
+    height: 27vw;
+    font-family: "Fredoka One";
+}

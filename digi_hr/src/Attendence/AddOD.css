@@ -1,0 +1,11 @@
+/* style={{ width: 700 ,fontWeight:800,marginLeft:90}} */
+
+.yes{
+    width:700px;
+    font-weight: 800px;
+    margin-left: 90px;
+    text-align: center;
+}
+.no{
+    text-align: left;
+}

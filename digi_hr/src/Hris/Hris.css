@@ -1,0 +1,86 @@
+.fixed{
+  position:fixed;
+}
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+  margin-right:100vw;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+/* .logo {
+    height: 5vw !important;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+    width: 6vw !important;
+    margin-top: 1vw !important;
+  } */
+  .logo-img1{
+    width:5vw;
+    margin-left: -0.4vw;
+    height:4 vw;
+
+}
+  
+
+.topnav{
+  margin-right:0vw;
+  margin-top:-50px;
+  text-align:right;
+}
+
+.navtext{
+  text-align:left;
+}
+
+.search{
+  margin-top:-65px;
+  margin-left: 5vw;
+  text-align:left;
+}
+
+@media only screen and (max-width: 900px) {
+  
+}
+.p1{
+  margin-left: 12px;
+  font-size:15px;
+  color: rgba(32, 6, 66, 0.719);
+  font-weight:600;
+}
+.company-menu{
+  width:400px;
+  height:auto;
+  text-align: center;
+}
+.acdiv{
+  margin:auto;
+}
+.org{
+  width:350px;
+  margin-bottom:20px;
+  margin-top:auto;
+  margin-left:auto;
+  margin-right:auto;
+  text-align: left;
+  font-weight:600;
+}
+.notifications-menu{
+  width:400px;
+  height:500px;
+  text-align: left;
+}
+.notidiv{
+   padding-left:20px;
+   padding-top:15px;
+   font-size:20px;
+}
+.user-name{
+  margin-top:1vw;
+}

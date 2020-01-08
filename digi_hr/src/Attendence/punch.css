@@ -1,0 +1,27 @@
+.divider{
+    font-family: 'work-sans';
+    font-size: 2vw;
+    font-weight: 200px
+}
+.punchin{
+    font-size: 5vw;
+    width: 7vw ;
+    margin-left: 400px;
+    height: 7vw;
+    transform: scale(0.6);
+}
+.punchout{
+    font-size: 5vw;
+    width:7vw;
+    margin-right: -100px;
+    height:7vw;
+    transform: scale(0.6);
+}
+.image1{
+    width: 6vw;
+    margin-left: -.4vw;
+    margin-top: -1.6vw
+}
+.ant-btn {
+    border-color: white
+}

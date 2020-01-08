@@ -1,0 +1,28 @@
+.zoom1{
+    height:400px;
+    margin-top: 30px;
+    
+  transition: transform .2s;
+}
+.zoom1:hover {
+    transform: scale(.9);
+} 
+.zoom2{
+    height:250px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.281);
+
+    
+  transition: transform .47s;
+}
+.zoom2:hover {
+    transform: scale(.9);
+} 
+.none{
+  margin-top: 5vw;
+  font-weight: bold;
+  border-radius: 10px;
+
+}

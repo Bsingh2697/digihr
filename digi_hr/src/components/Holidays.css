@@ -1,0 +1,13 @@
+.loader10{
+    z-index: 999999999999999;
+    background-color: white;
+    position: absolute;
+    margin-left: 0;
+    margin-top: -4vw;
+    width: 17vw;
+}
+.landing-main-div{
+    z-index: 99999;
+    background-color:#fff;
+    text-align: center
+  }

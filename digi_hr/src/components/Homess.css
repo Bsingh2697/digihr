@@ -1,0 +1,26 @@
+.zoom3{
+    height:250px;
+    margin-top: -10px;
+    border-radius: 10px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.281);
+    
+  transition: transform .47s;
+}
+.zoom3:hover {
+    transform: scale(.9);
+} 
+ .zoom4{
+  height:250px;
+  margin-top: -10px;
+  border-radius: 4px;
+  border-color: rgba(0, 0, 0, 0.281);
+
+  
+transition: transform .47s;
+}
+.zoom4:hover {
+  transform: scale(.9);
+} 
+
+

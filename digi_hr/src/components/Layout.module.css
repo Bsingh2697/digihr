@@ -1,0 +1,8 @@
+
+.hoverTravel:hover{
+    color: white !important;
+}
+
+.topMenu1:hover{
+    filter: brightness(150%)
+}

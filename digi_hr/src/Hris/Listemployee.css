@@ -1,0 +1,61 @@
+.tablediv3 { 
+	width: 900px; 
+	border-collapse: collapse; 
+    margin:50px auto;
+    margin-top: -1vw;
+    margin-left: 2vw
+    }
+.theaddiv3{
+    font-weight:bold;
+    font-size:10px;
+    text-align: left;
+    background-color: #696767d8;
+    color:#ffffff;
+    text-align: right;
+    margin-left: 90vw
+    
+}
+.thdiv3 { 
+	background: #ffffff; 
+	color: #ffffff; 
+    font-weight: 400; 
+    font-size:13px;
+    padding: 10px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+    }
+    
+.bold3{
+    font-weight: 600; 
+    font-size: 15px;
+    padding:5px;
+    text-align:center;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.trdiv3 { border: 1px solid #ccc; }
+
+.avatar{
+    text-align: center;
+    margin-left: 12vw;
+    margin-top: -4vw
+}
+.details{
+    font-weight: bold;
+    font-size: 2vw;
+    text-align: center
+}
+.what{
+    text-align: center;
+    font-weight:inherit;
+    font-size: 1.5vw
+}
+.tool{
+    text-align: center
+}
+.shadow-box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+  .divide{
+      font-size: 1.7vw !important
+  }

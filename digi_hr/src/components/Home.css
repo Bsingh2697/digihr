@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai:300,400,500&display=swap');
+@import '~antd/dist/antd.css';
+.ant-menu{
+  background-image: linear-gradient(#f5b0cb,#745c97);
+  }
+.ant-layout-sider-trigger{
+  background-color: #745c97;
+  border-radius: 30px;
+  width: 150px!important;
+  margin:20px;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected{
+    background-color: #745c97;
+    filter: brightness(90%);
+    border-radius: 50px;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub{
+    background: #745C97;
+    border-radius: 50px;
+    padding: -10px;
+} 
+.ant-menu .ant-menu-sub{
+    background-color: #745c97;
+}
+.hvr-pulse-shrink {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(100px) translateZ(100);
+    transform: perspective(100px) translateZ(1000);
+    box-shadow: 0 0 1px rgb(0, 0, 0);
+} 
+.hvr-pulse-shrink {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    /* box-shadow: 100 100 100px rgb(0, 0, 0); */
+}
+
+.zoom{
+    height:250px;
+    width:100%;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.281);
+
+    
+  transition: transform .47s;
+}
+.zoom:hover {
+    transform: scale(.9000);
+} 
+
+.see{
+    position: fixed;
+    
+}
+.homeHeadings{
+    font-family: 'Fredoka One';
+}
+
+@media (min-width:700px) and (min-height:550px){
+    .homeHeadings{
+        font-family: 'Hind Madurai', sans-serif;
+        font-weight: 300;
+        margin-top: 15px;
+    }
+}
